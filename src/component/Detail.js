@@ -7,51 +7,51 @@ const Detail = (props) => {
     const [students,setStudents]=useState([
 
 {
-
-"Name":"vishnu",
-"Age":"25",
-"Course":"HTML",
-"Batch":"August",
-"id":"1"
-
-},
-
-{
-
-    "Name":"durga",
-    "Age":"27",
-    "Course":"Css",
-    "Batch":"September",
-    "id":"2"
+    "Name":"Joe",
+    "Age":"25",
+    "Course":"MERN",
+    "Batch":"August",
+    "id":"1"
     
     },
+    
     {
-
-        "Name":"divya",
+    
+        "Name":"Biden",
         "Age":"27",
-        "Course":"React",
-        "Batch":"December",
-        "id":"3"
+        "Course":"MERN",
+        "Batch":"September",
+        "id":"2"
         
         },
-        
         {
-        
-            "Name":"swathi",
-            "Age":"23",
-            "Course":"Nodejs",
-            "Batch":"January",
-            "id":"4"
+    
+            "Name":"Martin",
+            "Age":"27",
+            "Course":"MERN",
+            "Batch":"December",
+            "id":"3"
             
             },
+            
             {
-        
-                "Name":"raji",
-                "Age":"24",
-                "Course":"Database",
-                "Batch":"April",
-                "id":"5"
+            
+                "Name":"Mary",
+                "Age":"23",
+                "Course":"MERN",
+                "Batch":"Januauary",
+                "id":"4"
                 
+                },
+                {
+            
+                    "Name":"Rosie",
+                    "Age":"24",
+                    "Course":"MERN",
+                    "Batch":"April",
+                    "id":"5"
+                    
+                    
                 },
 
 

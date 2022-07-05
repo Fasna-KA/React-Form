@@ -7,10 +7,17 @@ const Students = () => {
   return (
     <div>
 
-<div><Link className='addnew' to="/NewStudents">Add Student</Link></div>
 
 <table className="table table-bordered">
   <thead>
+  <br />
+        <h2>Students</h2>
+        <br></br>
+
+        <Link to="/NewStudents">
+          <button className="add">Add Student</button>
+        </Link>
+
     <tr>
       <th scope="col">Name</th>
       <th scope="col">Age</th>
